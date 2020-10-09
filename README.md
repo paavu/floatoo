@@ -56,6 +56,6 @@ Floatoo SideBar, Add quick launch shortcuts of any App, Contact, Floating Widget
 # It works with all famous launchers
 Nova Launcher, Apex Launcher, Go Launcher, Touchwiz launcher, Google Now Launcher, Smart Launcher, KitKat Launcher, CM launcher, Solo Launcher, Lollipop Launcher, etc
 
-# ++++ NOTE: Floatoo SideBar is not a home launcher replacement ++++
+# NOTE: Floatoo SideBar is not a home launcher replacement 
 
 # Feel free to share any feedback, suggestions and bug reports in the comments section below
