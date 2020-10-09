@@ -3,7 +3,6 @@ Floatoo SideBar, Add quick launch shortcuts of any App, Contact, Floating Widget
 ![](https://i.imgur.com/UKHMkCm.png)
 
 # Key feature
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 ★ Floatoo SideBar (Edge Screen, Circle Launcher) is the only app drawer / app launcher with fuzzy search support
 ★ Add Beautiful Floating Widgets & App Shortcuts
 ★ Add contact shortcuts with direct-dial, direct email, direct WhatsApp, direct message action
