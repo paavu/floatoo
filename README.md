@@ -1,5 +1,7 @@
 # floatoo Sidebar, Edge Screen, Circle Launcher - Floatoo
 Floatoo SideBar, Add quick launch shortcuts of any App, Contact, Floating Widget, App in-built Shortcut, just like any other famous launcher, and access it all from anywhere with just a swipe. Material Design & Fuzzy search
+
+
 <img src="https://i.imgur.com/UKHMkCm.png" data-canonical-src="https://i.imgur.com/UKHMkCm.png" width="33%"/>
 <img src="https://i.imgur.com/kuog5Rj.png" data-canonical-src="https://i.imgur.com/kuog5Rj.png" width="33%"/>
 <img src="https://i.imgur.com/2n8owu5.png" data-canonical-src="https://i.imgur.com/2n8owu5.png" width="33%"/>
