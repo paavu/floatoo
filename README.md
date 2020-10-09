@@ -1,8 +1,5 @@
 # floatoo Sidebar, Edge Screen, Circle Launcher - Floatoo
-
 Floatoo SideBar, Add quick launch shortcuts of any App, Contact, Floating Widget, App in-built Shortcut, just like any other famous launcher, and access it all from anywhere with just a swipe. Material Design & Fuzzy search
-
-https://lh3.googleusercontent.com/H1KAH8ADYWD9VxcLbms1QFEY_lr4059qEqxQqOVPrC4mwTtw6EBvfuVpios8Cz6AfA=w1872-h978-rw
 
 # Key feature
 ★ Floatoo SideBar (Edge Screen, Circle Launcher) is the only app drawer / app launcher with fuzzy search support
